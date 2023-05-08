@@ -39,7 +39,7 @@ Installation:
 
 Method: 1
 
-git clone https://github.com/yamanss01/ShopOnline
+git clone https://github.com/OnGraph-Java/ShopOnline
 
 cd ShopOnline
 
